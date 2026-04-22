@@ -1,0 +1,101 @@
+tipo_imovel,subtipo_apartamento,zona,tamanho_m2,padrao_calculado,preco_original,fator_tipo,fator_subtipo,fator_zona,preco_reais
+apartamento,cobertura,centro,118.65,cobertura de alto padrão,408561.41,0.97,1.18,1.08,505050.54
+casa,nao_se_aplica,zona sul,239.65,casa padrão,759979.78,1.0,1.0,1.12,851177.35
+casa,nao_se_aplica,zona oeste,193.72,casa padrão,633912.82,1.0,1.0,1.06,671947.59
+casa,nao_se_aplica,centro,165.72,casa padrão,487532.93,1.0,1.0,1.08,526535.56
+apartamento,comum,zona leste,72.76,apartamento padrão,261689.84,0.97,1.0,0.95,241147.19
+apartamento,comum,zona norte,72.76,apartamento padrão,278993.38,0.97,1.0,1.02,276036.05
+apartamento,comum,zona leste,52.2,apartamento compacto,250936.82,0.97,1.0,0.95,231238.28
+casa,nao_se_aplica,zona sul,221.9,casa padrão,700151.89,1.0,1.0,1.12,784170.12
+casa,nao_se_aplica,zona oeste,166.23,casa padrão,524435.19,1.0,1.0,1.06,555901.3
+casa,nao_se_aplica,zona oeste,188.7,casa padrão,601047.29,1.0,1.0,1.06,637110.13
+apartamento,comum,zona leste,44.32,apartamento compacto,210422.06,0.97,1.0,0.95,193903.93
+casa,nao_se_aplica,zona sul,243.68,casa padrão,790902.53,1.0,1.0,1.12,885810.83
+casa,nao_se_aplica,zona sul,214.81,casa padrão,678537.19,1.0,1.0,1.12,759961.65
+casa,nao_se_aplica,zona norte,84.59,casa compacta,319168.02,1.0,1.0,1.02,325551.38
+apartamento,comum,zona norte,78.18,apartamento padrão,287452.33,0.97,1.0,1.02,284405.34
+casa,nao_se_aplica,zona norte,78.51,casa compacta,314589.35,1.0,1.0,1.02,320881.14
+apartamento,cobertura,zona norte,103.89,cobertura de alto padrão,340608.41,0.97,1.18,1.02,397657.59
+casa,nao_se_aplica,centro,150.2,casa padrão,490770.14,1.0,1.0,1.08,530031.75
+casa,nao_se_aplica,centro,130.71,casa compacta,430366.76,1.0,1.0,1.08,464796.1
+casa,nao_se_aplica,zona norte,101.16,casa compacta,309574.55,1.0,1.0,1.02,315766.04
+casa,nao_se_aplica,zona oeste,168.49,casa padrão,564353.61,1.0,1.0,1.06,598214.83
+apartamento,comum,zona leste,69.29,apartamento compacto,265701.66,0.97,1.0,0.95,244844.08
+apartamento,cobertura,zona norte,101.35,cobertura de alto padrão,354203.4,0.97,1.18,1.02,413529.64
+casa,nao_se_aplica,centro,116.94,casa compacta,393782.39,1.0,1.0,1.08,425284.98
+casa,nao_se_aplica,centro,135.77,casa compacta,414848.88,1.0,1.0,1.08,448036.79
+casa,nao_se_aplica,zona oeste,204.89,casa padrão,652050.64,1.0,1.0,1.06,691173.68
+apartamento,comum,zona norte,81.93,apartamento padrão,285508.56,0.97,1.0,1.02,282482.17
+casa,nao_se_aplica,centro,147.99,casa compacta,469901.68,1.0,1.0,1.08,507493.81
+casa,nao_se_aplica,zona oeste,164.41,casa padrão,538391.43,1.0,1.0,1.06,570694.92
+apartamento,comum,zona leste,49.75,apartamento compacto,211371.53,0.97,1.0,0.95,194778.86
+casa,nao_se_aplica,zona oeste,167.58,casa padrão,609325.58,1.0,1.0,1.06,645885.11
+casa,nao_se_aplica,zona norte,75.81,casa compacta,282667.33,1.0,1.0,1.02,288320.68
+apartamento,comum,zona leste,53.66,apartamento compacto,218706.51,0.97,1.0,0.95,201538.05
+casa,nao_se_aplica,zona sul,239.27,casa padrão,765576.62,1.0,1.0,1.12,857445.81
+casa,nao_se_aplica,zona sul,242.78,casa padrão,720776.86,1.0,1.0,1.12,807270.08
+casa,nao_se_aplica,zona sul,209.76,casa padrão,678484.58,1.0,1.0,1.12,759902.73
+apartamento,cobertura,zona norte,103.97,cobertura de alto padrão,363716.91,0.97,1.18,1.02,424636.58
+apartamento,comum,zona norte,60.51,apartamento compacto,305427.26,0.97,1.0,1.02,302189.73
+casa,nao_se_aplica,zona oeste,183.69,casa padrão,595299.17,1.0,1.0,1.06,631017.12
+casa,nao_se_aplica,centro,132.43,casa compacta,456336.42,1.0,1.0,1.08,492843.33
+apartamento,comum,zona leste,65.63,apartamento compacto,245848.65,0.97,1.0,0.95,226549.53
+casa,nao_se_aplica,centro,143.99,casa compacta,446909.66,1.0,1.0,1.08,482662.43
+apartamento,comum,zona leste,47.22,apartamento compacto,225944.68,0.97,1.0,0.95,208208.02
+casa,nao_se_aplica,zona sul,230.96,casa padrão,765437.99,1.0,1.0,1.12,857290.55
+apartamento,comum,zona norte,94.34,apartamento padrão,356750.96,0.97,1.0,1.02,352969.4
+casa,nao_se_aplica,zona oeste,179.13,casa padrão,560108.38,1.0,1.0,1.06,593714.88
+apartamento,cobertura,centro,105.46,cobertura de alto padrão,408463.83,0.97,1.18,1.08,504929.92
+casa,nao_se_aplica,centro,149.21,casa compacta,455574.47,1.0,1.0,1.08,492020.43
+casa,nao_se_aplica,zona oeste,154.81,casa padrão,532035.71,1.0,1.0,1.06,563957.85
+casa,nao_se_aplica,zona norte,78.82,casa compacta,352173.67,1.0,1.0,1.02,359217.14
+casa,nao_se_aplica,zona sul,243.61,casa padrão,751113.91,1.0,1.0,1.12,841247.58
+casa,nao_se_aplica,zona oeste,202.78,casa padrão,641351.07,1.0,1.0,1.06,679832.13
+casa,nao_se_aplica,zona sul,237.29,casa padrão,764859.54,1.0,1.0,1.12,856642.68
+casa,nao_se_aplica,zona sul,227.91,casa padrão,718625.73,1.0,1.0,1.12,804860.82
+casa,nao_se_aplica,centro,165.56,casa padrão,500160.1,1.0,1.0,1.08,540172.91
+casa,nao_se_aplica,zona sul,233.59,casa padrão,752826.89,1.0,1.0,1.12,843166.12
+apartamento,comum,zona leste,58.58,apartamento compacto,193870.89,0.97,1.0,0.95,178652.03
+casa,nao_se_aplica,zona norte,81.16,casa compacta,307687.77,1.0,1.0,1.02,313841.53
+apartamento,comum,zona leste,49.5,apartamento compacto,170917.27,0.97,1.0,0.95,157500.26
+casa,nao_se_aplica,centro,108.32,casa compacta,421458.03,1.0,1.0,1.08,455174.67
+apartamento,cobertura,zona norte,121.62,cobertura de alto padrão,391362.4,0.97,1.18,1.02,456912.47
+casa,nao_se_aplica,zona norte,96.98,casa compacta,331278.15,1.0,1.0,1.02,337903.71
+casa,nao_se_aplica,zona sul,214.03,casa padrão,716495.52,1.0,1.0,1.12,802474.98
+casa,nao_se_aplica,zona norte,114.92,casa compacta,357834.07,1.0,1.0,1.02,364990.75
+apartamento,comum,zona norte,99.0,apartamento padrão,353823.8,0.97,1.0,1.02,350073.27
+casa,nao_se_aplica,zona oeste,153.97,casa padrão,551124.28,1.0,1.0,1.06,584191.74
+apartamento,comum,zona leste,69.59,apartamento compacto,210545.5,0.97,1.0,0.95,194017.68
+casa,nao_se_aplica,zona sul,208.46,casa padrão,680919.02,1.0,1.0,1.12,762629.3
+apartamento,comum,zona leste,55.66,apartamento compacto,224776.48,0.97,1.0,0.95,207131.53
+casa,nao_se_aplica,zona sul,247.25,casa padrão,815204.69,1.0,1.0,1.12,913029.25
+casa,nao_se_aplica,zona oeste,202.17,casa padrão,619401.48,1.0,1.0,1.06,656565.57
+casa,nao_se_aplica,zona leste,81.73,casa compacta,255576.3,1.0,1.0,0.95,242797.48
+apartamento,comum,zona leste,41.16,apartamento compacto,189138.25,0.97,1.0,0.95,174290.9
+casa,nao_se_aplica,zona sul,211.25,casa padrão,692659.54,1.0,1.0,1.12,775778.68
+casa,nao_se_aplica,zona oeste,188.44,casa padrão,622834.79,1.0,1.0,1.06,660204.88
+casa,nao_se_aplica,zona oeste,193.09,casa padrão,639663.45,1.0,1.0,1.06,678043.26
+casa,nao_se_aplica,zona oeste,201.97,casa padrão,635509.26,1.0,1.0,1.06,673639.82
+apartamento,comum,zona leste,55.55,apartamento compacto,223617.61,0.97,1.0,0.95,206063.63
+apartamento,cobertura,centro,115.28,cobertura de alto padrão,404632.17,0.97,1.18,1.08,500193.34
+apartamento,comum,zona leste,64.33,apartamento compacto,221559.46,0.97,1.0,0.95,204167.04
+casa,nao_se_aplica,zona sul,221.25,casa padrão,769723.24,1.0,1.0,1.12,862090.03
+casa,nao_se_aplica,zona oeste,170.89,casa padrão,576884.99,1.0,1.0,1.06,611498.09
+apartamento,cobertura,zona norte,109.49,cobertura de alto padrão,342730.9,0.97,1.18,1.02,400135.58
+apartamento,comum,zona leste,53.35,apartamento compacto,229746.61,0.97,1.0,0.95,211711.5
+apartamento,cobertura,zona norte,105.31,cobertura de alto padrão,336689.55,0.97,1.18,1.02,393082.36
+casa,nao_se_aplica,centro,108.29,casa compacta,398482.54,1.0,1.0,1.08,430361.14
+casa,nao_se_aplica,zona sul,193.22,casa padrão,664417.87,1.0,1.0,1.12,744148.01
+casa,nao_se_aplica,zona oeste,173.89,casa padrão,547049.53,1.0,1.0,1.06,579872.5
+casa,nao_se_aplica,zona sul,226.31,casa padrão,757831.28,1.0,1.0,1.12,848771.03
+casa,nao_se_aplica,centro,139.17,casa compacta,479893.43,1.0,1.0,1.08,518284.9
+apartamento,comum,zona leste,65.11,apartamento compacto,269991.8,0.97,1.0,0.95,248797.44
+casa,nao_se_aplica,zona sul,189.78,casa padrão,676243.79,1.0,1.0,1.12,757393.04
+casa,nao_se_aplica,zona oeste,199.76,casa padrão,641918.36,1.0,1.0,1.06,680433.46
+casa,nao_se_aplica,centro,157.87,casa padrão,500997.92,1.0,1.0,1.08,541077.75
+casa,nao_se_aplica,zona oeste,201.9,casa padrão,629014.57,1.0,1.0,1.06,666755.44
+casa,nao_se_aplica,centro,143.7,casa compacta,456625.69,1.0,1.0,1.08,493155.75
+casa,nao_se_aplica,centro,149.77,casa compacta,496996.95,1.0,1.0,1.08,536756.71
+casa,nao_se_aplica,centro,129.78,casa compacta,449574.56,1.0,1.0,1.08,485540.52
+apartamento,comum,zona leste,45.34,apartamento compacto,194320.72,0.97,1.0,0.95,179066.54
+apartamento,comum,zona leste,62.66,apartamento compacto,262795.5,0.97,1.0,0.95,242166.05
