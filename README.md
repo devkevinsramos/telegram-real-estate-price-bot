@@ -1,110 +1,96 @@
-# 🏠 Telegram Real Estate Price Bot
+# Telegram Real Estate Price Bot
 
 A Telegram bot that estimates real estate prices in real time using a Machine Learning model.
 
-This updated version goes beyond basic m² prediction by including a more complete simulation flow with property type, apartment subtype, zone, and automatic property classification based on size.
+This updated version includes a more complete simulation flow, considering property type, apartment subtype, zone, size in m², and automatic property classification.
 
-👉 Try the bot here: https://t.me/devksr_corretorex_bot
+Try the bot here: [https://t.me/devksr_corretorex_bot](https://t.me/devksr_corretorex_bot)
 
----
+## About
 
-## 📌 About the Project
-
-This project was developed during my **Artificial Intelligence Programming course at SENAI**.
+This project was developed during my Artificial Intelligence Programming course at SENAI.
 
 The idea is to simulate a smarter real estate assistant on Telegram, capable of generating price estimates based on different property characteristics.
 
----
+## Main features
 
-## ⚙️ Main Features
+The bot includes:
 
-- Real-time price estimation on Telegram
-- Property type selection:
-  - house
-  - apartment
-- Apartment subtype selection:
-  - common
-  - penthouse
-- Zone-based prediction
-- Automatic property standard classification by m²
-- Expanded dataset for a more complete prediction flow
+* real-time price estimation on Telegram
+* property type selection
+* apartment subtype selection
+* zone-based prediction
+* automatic property standard classification by m²
+* expanded dataset for a more complete prediction flow
 
----
+## How it works
 
-## 🧠 How It Works
-
-The bot reads the dataset, trains a **Linear Regression** model, and interacts with the user directly on Telegram.
+The bot reads the dataset, trains a Linear Regression model, and interacts with the user directly on Telegram.
 
 The prediction considers:
 
-- property type
-- apartment subtype
-- zone
-- size in m²
+* property type
+* apartment subtype
+* zone
+* size in m²
 
----
+## Commands
 
-## 🤖 Commands
+Available commands:
 
-- `/start` → start interaction
-- `/ajuda` → usage instructions
-- `/comandos` → list commands
-- `/novo` → start a new simulation
-- `/sobre` → project overview
-- `/encerrar` → end the session
+* `/start` - start interaction
+* `/ajuda` - usage instructions
+* `/comandos` - list commands
+* `/novo` - start a new simulation
+* `/sobre` - project overview
+* `/encerrar` - end the session
 
----
+## Technologies
 
-## 🛠️ Technologies Used
+* Python
+* Pandas
+* Scikit-learn
+* pyTelegramBotAPI
 
-- Python
-- Pandas
-- Scikit-learn
-- pyTelegramBotAPI
+## Project structure
 
----
-
-## 📂 Project Structure
-
-```text
+```
 .
 ├── iag_expandido.py
 ├── dados_imobiliaria_expandido.csv
 └── README.md
 ```
 
----
+## How to run
 
-## ▶️ How to Run
+Install the dependencies:
 
-```bash
+```
 pip install pandas scikit-learn pyTelegramBotAPI
 ```
 
 Set your Telegram bot token in the code:
 
-```python
+```
 TOKEN = "your_token_here"
 ```
 
 Run the project:
 
-```bash
+```
 python iag_expandido.py
 ```
 
----
+## Important note
 
-## ⚠️ Notes
+This project was built for learning purposes.
 
-* This project was built for learning purposes
-* Predictions are approximations based on the dataset
-* Do not expose your real Telegram bot token publicly
+The predictions are approximations based on the dataset and should not be used as official real estate evaluations.
 
----
+Do not expose your real Telegram bot token publicly.
 
-## 👨‍💻 Author
+## Author
 
 Kevin Silva Ramos
-Developed during SENAI AI course
 
+Developed during SENAI AI course.
